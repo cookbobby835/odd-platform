@@ -1,4 +1,5 @@
 configure([project(':odd-platform-api-contract'), project(':odd-platform-api')]) {
+// sonar frontend scan config
     apply plugin: 'java'
 
     repositories {
